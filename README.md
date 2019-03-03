@@ -9,6 +9,11 @@ Rename `credentials.json.ex` -> `credentials.json`, kemudian isikan:
 - username
 - password
   
-Jalankan:
+### Buat venv
+```python3 -m venv env```
 
+### Install Requirements
+```pip install -r requirements.txt```
+
+### Jalankan Script
 ```python main.py```
