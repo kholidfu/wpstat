@@ -3,6 +3,10 @@
 ## What?
 Tool ini berguna untuk login ke WP secara otomatis menggunakan Selenium dan melihat halaman stats di `/wp-admin/index.php?page=stats`.
 
+## Requirements?
+- python-wordpress-xmlrpc
+- selenium
+
 ## How?
 **1. Masukkan Credentials**
 Rename `credentials.json.ex` -> `credentials.json`, kemudian isikan:
