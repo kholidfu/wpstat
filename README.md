@@ -4,6 +4,7 @@
 Tool ini berguna untuk login ke WP secara otomatis menggunakan Selenium dan melihat halaman stats di `/wp-admin/index.php?page=stats`.
 
 ## Requirements?
+- python 3.7
 - python-wordpress-xmlrpc
 - selenium
 
