@@ -1,0 +1,16 @@
+*~
+*.pyc
+.vscode
+__pycache__/
+bin/
+etc/
+include/
+lib/
+share/
+pip-selfcheck.json
+.Python
+keywords/*
+!keywords/.gitkeep
+geckodriver.log
+env/
+credentials.json
